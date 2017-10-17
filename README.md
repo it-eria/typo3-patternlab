@@ -24,7 +24,7 @@ This is a structure that is ready to create an HTML template for [CMS Typo 3](ht
    or download and unpack archive
 2. In console: *npm install* for packages installing
 3. In console: *gulp dev* - after this your PC default browser will show demo page created
-> The ** gulp dev ** command is used to create the template. In this mode at the top of the page you can see the menu with all the pages within current project to fast and convenient switching between them.
+> The **gulp dev** command is used to create the template. In this mode at the top of the page you can see the menu with all the pages within current project to fast and convenient switching between them.
 4. If you want to make the final assembly type in the command line: *gulp build*
 
 ### Files and folders:
