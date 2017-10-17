@@ -1,0 +1,104 @@
+/* ---------------------------------------------------------------------- *\
+    Header
+\* ---------------------------------------------------------------------- */
+.logo {
+    font-family: $ralewayLight;
+    font-size: 32px;
+    line-height: normal;
+    color: $font_white;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+        color: $font_white;
+    }
+}
+
+.main-menu {
+    font-family: $ralewayLight;
+    font-size: 18px;
+    line-height: 18px;
+    color: $font_white;
+    text-transform: uppercase;
+}
+
+/* ---------------------------------------------------------------------- *\
+    Breadcrumb
+\* ---------------------------------------------------------------------- */
+.page-title {
+    font-family: $ralewaySemiBold;
+    font-size: 45px;
+    line-height: 56px;
+    color: $font_white;
+}
+
+.breadcrumb-nav {
+    font-family: $ralewayMedium;
+    font-size: 14px;
+    line-height: normal;
+    color: $font_white;
+    text-transform: uppercase;
+}
+
+/* ---------------------------------------------------------------------- *\
+    Content
+\* ---------------------------------------------------------------------- */
+.heading {
+    font-family: $ralewaySemiBold;
+    color: $font_headings;
+    margin: 0;
+    padding: 0;
+    &-1 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    &-2 {
+        font-size: 33px;
+        line-height: 36px;
+    }
+    &-3 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    &-4 {
+        font-size: 25px;
+        line-height: 28px;        
+    }
+    &-5 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    &-6 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+
+.paragraph {
+    font-family: $openSansRegular;
+    font-size: 14px;
+    line-height: 25px;
+    color: $font_paragraph;    
+    margin: 0;
+    padding: 0;
+}
+
+.section-title {
+    font-family: $ralewaySemiBold;
+    font-size: 45px;
+    line-height: 56px;
+    color: $font_section-title;
+}
+
+/* ---------------------------------------------------------------------- *\
+    Footer
+\* ---------------------------------------------------------------------- */
+.copyright {
+    font-family: $openSansLight;
+    color: $font_white;
+    font-size: 14px;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,10 @@
+{
+    "server": {
+        "baseDir": "./",
+        "serveStaticOptions": {
+            "extensions": ["html"]
+        }
+    },
+    "notify": false,
+    "open": true
+}

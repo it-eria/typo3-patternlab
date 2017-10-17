@@ -1,0 +1,32 @@
+{
+  "name": "typo3-patternlab",
+  "version": "1.0.0",
+  "description": "Patternlab way to make HTML templates for Typo3 CMS",
+  "author": "Vitalik Pyzhenkov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/it-eria/typo3-patternlab.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-cli": "^1.4.0",
+    "gulp-filenames": "^4.0.1",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-inject-string": "^1.1.0",
+    "gulp-less": "^3.3.2",
+    "gulp-mustache": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-string-replace": "^0.4.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-wait": "0.0.2"
+  }
+}

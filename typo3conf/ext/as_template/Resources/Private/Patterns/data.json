@@ -1,0 +1,69 @@
+{
+    "header": {
+        "logo": "Logo",
+        "menuItems": [
+            {
+                "item": "Page 1"
+            },
+            {
+                "item": "Page 2"
+            },
+            {
+                "item": "Page 3"
+            }
+        ]
+    },
+    "pageTitle": "Typo 3/Patternlab Layout <br> Demo Page",
+    "breadcrumb": {
+        "breadcrumbItems": [
+            {
+                "item": "Item 1"
+            },
+            {
+                "item": "Item 2"
+            },
+            {
+                "item": "Item 3"
+            }
+        ]
+    },
+    "articles": [
+        {
+            "tag": "h1",
+            "headingClass": "heading-1",
+            "heading": "Title Heading 1",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus animi molestiae saepe iste dicta dolores magni cumque tenetur, placeat dignissimos eos vero enim numquam consectetur, sequi, possimus aspernatur nam."
+        },
+        {
+            "tag": "h2",
+            "headingClass": "heading-2",
+            "heading": "Title Heading 2",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus animi molestiae saepe iste dicta dolores magni cumque tenetur, placeat dignissimos eos vero enim numquam consectetur, sequi, possimus aspernatur nam."
+        },
+        {
+            "tag": "h3",
+            "headingClass": "heading-3",
+            "heading": "Title Heading 3",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus animi molestiae saepe iste dicta dolores magni cumque tenetur, placeat dignissimos eos vero enim numquam consectetur, sequi, possimus aspernatur nam."
+        },
+        {
+            "tag": "h4",
+            "headingClass": "heading-4",
+            "heading": "Title Heading 4",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus animi molestiae saepe iste dicta dolores magni cumque tenetur, placeat dignissimos eos vero enim numquam consectetur, sequi, possimus aspernatur nam."
+        },
+        {
+            "tag": "h5",
+            "headingClass": "heading-5",
+            "heading": "Title Heading 5",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus animi molestiae saepe iste dicta dolores magni cumque tenetur, placeat dignissimos eos vero enim numquam consectetur, sequi, possimus aspernatur nam."
+        },
+        {
+            "tag": "h6",
+            "headingClass": "heading-6",
+            "heading": "Title Heading 6",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus animi molestiae saepe iste dicta dolores magni cumque tenetur, placeat dignissimos eos vero enim numquam consectetur, sequi, possimus aspernatur nam."
+        }
+    ],
+    "copyright": "© Copryright 2017"
+}

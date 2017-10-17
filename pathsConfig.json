@@ -1,0 +1,33 @@
+{
+    "src": {
+        "styles": "typo3conf/ext/as_template/Resources/Private/Scss/*.scss",
+        "mustache": "typo3conf/ext/as_template/Resources/Private/Patterns/Pages/*.mustache",
+        "scripts": "typo3conf/ext/as_template/Resources/Private/Js/*.js",
+        "json": "typo3conf/ext/as_template/Resources/Private/Patterns/data.json",
+        "html": "./*.html"
+    },
+    "build": {
+        "styles": "typo3conf/ext/as_template/Resources/Public/StyleSheets/",
+        "html": "./",
+        "scripts": "typo3conf/ext/as_template/Resources/Public/JavaScript/"
+    },
+    "watch": {
+        "styles": "typo3conf/ext/as_template/Resources/Private/Scss/**/*.scss",
+        "mustache": "typo3conf/ext/as_template/Resources/Private/Patterns/**/*.mustache",
+        "scripts": "typo3conf/ext/as_template/Resources/Private/Js/**/*.js",
+        "json": "typo3conf/ext/as_template/Resources/Private/Patterns/data.json",
+        "pagesFolder": "typo3conf/ext/as_template/Resources/Private/Patterns/Pages/"
+    },
+    "browserSyncWatch": {
+        "arr": ["typo3conf/ext/as_template/Resources/Public/Fonts/*.*",
+                "typo3conf/ext/as_template/Resources/Public/Images/*.*"]
+    },
+    "clear": {
+        "scripts": "typo3conf/ext/as_template/Resources/Public/JavaScript/*.*",
+        "styles": "typo3conf/ext/as_template/Resources/Public/StyleSheets/*.*",
+        "html": "./*.html"
+    },
+    "replace": {
+        "images": "typo3conf/ext/as_template/Resources/Public"
+    }
+}

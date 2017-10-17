@@ -1,0 +1,57 @@
+@media screen and (min-width: 0px) and (max-width: 320px) {
+    .header {
+        text-align: center;
+        .main-menu {
+            ul {
+                text-align: center;
+            }
+        }
+    }
+    .page-title {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .breadcrumb {
+        .breadcrumb-nav {
+            &:before {
+                display: none;
+            }
+        }
+    }    
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+    .header {
+        text-align: center;
+        .main-menu {
+            ul {
+                text-align: center;
+            }
+        }
+    }
+    .page-title {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .breadcrumb {
+        .breadcrumb-nav {
+            &:before {
+                display: none;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .page-title {
+        font-size: 32px;
+        line-height: 43px;
+    }
+    .breadcrumb {
+        .breadcrumb-nav {
+            &:before {
+                display: none;
+            }
+        }
+    }
+}
