@@ -20,7 +20,7 @@ This is a structure that is ready to create an HTML template for [CMS Typo 3](ht
 * [browserSync](https://browsersync.io/)
 
 ### How to use
-1. Open console window and write: *git clone https://github.com/Pyzhyck/typo3-mustache.git* 
+1. Open console window and write: *git clone https://github.com/it-eria/typo3-patternlab.git* 
    or download and unpack archive
 2. In console: *npm install* for packages installing
 3. In console: *gulp dev* - after this your PC default browser will show demo page created
