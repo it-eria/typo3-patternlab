@@ -2,7 +2,7 @@
 This is a structure that is ready to create an HTML template for [CMS Typo 3](https://typo3.org/) using the [Gulp](https://gulpjs.com/) task runner, [PatternLab](http://patternlab.io/) approach and templetizer [Mustache](https://mustache.github.io/)
 
 ### List of used packages:
-* Gulp - **Gulp - Attention! Used version 4 ([Gulp 4](https://github.com/gulpjs/gulp/tree/4.0))**
+* Gulp - **Attention! Used version 4 ([Gulp 4](https://github.com/gulpjs/gulp/tree/4.0))**
 * [gulp-sass](https://www.npmjs.com/package/gulp-sass)
 * [gulp-sass-glob](https://www.npmjs.com/package/gulp-sass-glob)
 * [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
